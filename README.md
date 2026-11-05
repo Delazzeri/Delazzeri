@@ -8,9 +8,11 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/eduardo-delazeri-02109a2b7"><img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Delazeri-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio-gamma-one-2b3woqb8t3.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ver%20site-6366f1?style=flat&logo=vercel&logoColor=white" alt="Portfólio" /></a>
-<a href="mailto:dudu.delazeri@gmail.com"><img src="https://img.shields.io/badge/Email-dudu.delazeri%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- Troque o número do WhatsApp (formato 55DDDNUMERO) e o usuário do Instagram -->
+<a href="https://wa.me/5551982012358"><img src="assets/whatsapp.svg" width="44" height="44" alt="WhatsApp" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/e.delazeri"><img src="assets/instagram.svg" width="44" height="44" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/eduardo-delazeri-02109a2b7"><img src="assets/linkedin.svg" width="44" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:dudu.delazeri@gmail.com"><img src="assets/email.svg" width="44" height="44" alt="Email" /></a>
 
 </div>
 
@@ -43,7 +45,7 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark" alt="Design" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" alt="Figma, Photoshop, Illustrator" />&nbsp;<img src="assets/indesign.svg" width="48" height="48" alt="InDesign" />&nbsp;<img src="assets/premiere.svg" width="48" height="48" alt="Premiere Pro" />&nbsp;<img src="https://skillicons.dev/icons?i=ae&theme=dark" alt="After Effects" />
 
 </div>
 
@@ -56,21 +58,13 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
     <td width="50%" valign="top">
       <h3>📊 Marketing OS</h3>
       <p>Sistema de gestão de trabalho para agências e freelancers que atendem vários clientes: quadros, calendário editorial, aprovações e portal do cliente por link.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/marketing-os">Repositório</a> · <a href="https://marketing-os-liard-three.vercel.app">Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🗂️ Catálogo</h3>
       <p>Portfólio com grid estilo Netflix, modal com URL compartilhável, conteúdo bilíngue (PT/EN), tema claro/escuro e painel admin próprio.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,supabase,framer&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/catalogo">Repositório</a> · <a href="https://portfolio-delazzeris-projects.vercel.app">Demo</a>
     </td>
   </tr>
@@ -78,21 +72,13 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
     <td width="50%" valign="top">
       <h3>⚖️ Judice</h3>
       <p>Site institucional para empresa de correspondência jurídica com mais de 20 anos de atuação. Projeto freelance, do design à publicação.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/judice">Repositório</a> · <a href="https://judice.vercel.app">Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🔩 Tecnomola</h3>
       <p>Site B2B para fabricante de molas e arames conformados, com foco em SEO, notícias em Markdown e build estático.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/SEO-6366f1?style=flat" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/tecnomola">Repositório</a> · <a href="https://tecnomola.vercel.app">Demo</a>
     </td>
   </tr>
@@ -100,21 +86,13 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
     <td width="50%" valign="top">
       <h3>🧑‍💻 Portfolio</h3>
       <p>Meu site pessoal de página única: projetos cadastrados por pastas, validação no build, animações e tema claro/escuro.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind%20v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Motion-0055FF?style=flat&logo=framer&logoColor=white" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,framer&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/portfolio">Repositório</a> · <a href="https://portfolio-gamma-one-2b3woqb8t3.vercel.app">Demo</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧪 Eduardo Digital Lab</h3>
       <p>Landing page profissional com Hero, Projetos, Certificados, Linha do tempo e Contato, construída com componentes shadcn/ui.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat" />
-      </p>
+      <p><img src="https://skillicons.dev/icons?i=vite,react,ts,tailwind&theme=dark" height="36" alt="Stack" /></p>
       <a href="https://github.com/Delazzeri/eduardo-digital-lab">Repositório</a> · <a href="https://eduardo-digital-lab.vercel.app">Demo</a>
     </td>
   </tr>
@@ -122,12 +100,11 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
 
 <br/>
 
-## 📈 GitHub em números
+## 📈 Atividade no GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Delazzeri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6366f1&icon_color=06b6d4&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Delazzeri&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="GitHub streak" />
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=Delazzeri&theme=tokyonight&hide_border=true&background=0f172a&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="GitHub streak" />
 
 </div>
 

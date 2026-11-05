@@ -59,7 +59,7 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
       <h3>Marketing OS</h3>
       <p>Sistema de gestão de trabalho para agências e freelancers que atendem vários clientes: quadros, calendário editorial, aprovações e portal do cliente por link.</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,supabase,vercel&theme=dark" height="36" alt="Stack" /></p>
-      <a href="https://github.com/Delazzeri/marketing-os"><img src="assets/btn-repo.svg" height="36" alt="Repositório" /></a>&nbsp;<a href="https://marketing-os-liard-three.vercel.app"><img src="assets/btn-demo.svg" height="36" alt="Ver site" /></a>
+      <a href="https://github.com/Delazzeri/marketing-os"><img src="assets/btn-repo.svg" height="36" alt="Repositório" /></a>&nbsp;<a href="https://marketing-workos.vercel.app/auth/login"><img src="assets/btn-demo.svg" height="36" alt="Ver site" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>Catálogo</h3>
@@ -87,7 +87,7 @@ Também atendo como **freelancer**, entregando sites institucionais, landing pag
       <h3>Portfolio</h3>
       <p>Meu site pessoal de página única: projetos cadastrados por pastas, validação no build, animações e tema claro/escuro.</p>
       <p><img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,framer&theme=dark" height="36" alt="Stack" /></p>
-      <a href="https://github.com/Delazzeri/portfolio"><img src="assets/btn-repo.svg" height="36" alt="Repositório" /></a>&nbsp;<a href="https://portfolio-gamma-one-2b3woqb8t3.vercel.app"><img src="assets/btn-demo.svg" height="36" alt="Ver site" /></a>
+      <a href="https://github.com/Delazzeri/portfolio"><img src="assets/btn-repo.svg" height="36" alt="Repositório" /></a>&nbsp;<a href="https://eduardodelazeri.vercel.app/"><img src="assets/btn-demo.svg" height="36" alt="Ver site" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>Eduardo Digital Lab</h3>
